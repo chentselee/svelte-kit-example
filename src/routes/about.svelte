@@ -1,3 +1,1 @@
-<main>
-  About
-</main>
+<main>About</main>
